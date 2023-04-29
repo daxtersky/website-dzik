@@ -2,7 +2,6 @@
   font-family: "JackpotW01-Regular";
   src: local("JackpotW01-Regular"),
     url("../../assets/JACKPORTREGULARNCV-BEY3.TTF") format("truetype");
-    /* url("../../assets/JACKPORTCOLLEGENCV-1MZE.TTF") format("truetype"); */
 }
 
 :root {
@@ -30,7 +29,7 @@ body {
   font-family: "JackpotW01-Regular";
 
   background-color: var(--bg-color-black);
-  background-image: url("../../assets/dzik-background.jpeg");
+  background-image: url("../../assets/dzik-background.jpg");
 }
 
 .container {
